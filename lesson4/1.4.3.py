@@ -1,6 +1,3 @@
-import random
-
-random.random()
 a = []
 i = 1
 while i < 100:
