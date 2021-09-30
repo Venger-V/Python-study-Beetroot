@@ -1,6 +1,5 @@
 import random
 
-random.random()
 lis = []
 i = 0
 while i < 10:
