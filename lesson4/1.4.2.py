@@ -1,6 +1,5 @@
 import random
 
-random.random()
 lis = []
 lis1 = []
 i = 0
