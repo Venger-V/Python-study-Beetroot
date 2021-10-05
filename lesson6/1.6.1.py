@@ -1,6 +1,6 @@
 str_ = input('Введите текст')
 
-list_ = str_.split(' ')
+list_ = str_.split()
 
 dict_ = {}
 
