@@ -13,7 +13,7 @@ prices = {
 }
 
 for i in stock:
-    sum = prices[i] * stock[i]
+    sum = prices.get(i, 0) * stock.get(i, 0)
     print(i.title(), sum, sep=': ')
     total += sum
 print('Total amount: ', total)
