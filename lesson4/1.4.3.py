@@ -5,4 +5,3 @@ while i < 100:
         list_.append(i)
     i += 1
 print(list_)
-
